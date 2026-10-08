@@ -12,6 +12,14 @@ Use um canal privado do seu Telegram como drive de arquivos no Windows.
 2. Cole o **api_id** e o **api_hash** no CR Drive.
 3. Entre com QR code ou telefone. O app cria um canal privado **"CR Drive"** na sua conta.
 
-Cada pessoa usa a própria conta: os arquivos ficam no seu Telegram e a sessão fica só no seu PC, criptografada pelo Windows.
+## Seus arquivos são só seus
+O CR Drive foi feito para ser seguro:
+
+- **Cada um usa a própria conta.** Você cria sua chave em my.telegram.org e entra com o seu Telegram. Os arquivos vão para um canal privado na sua conta: ninguém mais tem acesso a eles, nem quem criou o app.
+- **Não há servidor no meio.** O app fala direto com o Telegram. Nenhum arquivo, senha ou login passa por outro lugar.
+- **Seu login fica protegido no PC.** A sessão do Telegram é guardada criptografada pelo Windows e só o seu usuário do Windows consegue abri-la.
+- **O app só atende o seu computador.** O CR Drive não aceita conexões de fora do seu PC e exige uma chave secreta que muda a cada vez que ele abre. Outros sites abertos no navegador não conseguem usá-lo.
+
+**Recomendação:** ative a **verificação em duas etapas** no seu Telegram (**Configurações → Privacidade e Segurança → Verificação em duas etapas**). Assim, sua conta fica protegida com uma senha extra mesmo que alguém consiga o código que chega por SMS.
 
 Este repositório contém apenas os instaladores.
