@@ -2,7 +2,9 @@
 
 Use um canal privado do seu Telegram como drive de arquivos no Windows e no celular.
 
-**[⬇ Baixar a versão mais recente](https://github.com/cleitonrios/cr-drive-releases/releases/latest)** — baixe o arquivo `CR Drive Setup x.y.z.exe` e execute.
+**[⬇ Baixar para Windows](https://github.com/cleitonrios/cr-drive-releases/releases/latest/download/CR-Drive-Setup.exe)** — baixa o instalador da versão mais recente. Depois é só abrir o arquivo.
+
+Prefere ver as novidades antes? [Página da versão mais recente](https://github.com/cleitonrios/cr-drive-releases/releases/latest).
 
 - O Windows pode mostrar "O Windows protegeu o computador" (o instalador não é assinado). Clique em **Mais informações → Executar assim mesmo**.
 - Depois de instalado, o CR Drive **se atualiza sozinho** quando sai uma versão nova.
